@@ -1,0 +1,29 @@
+{
+  "transacoes": [
+    {
+      "id": "1",
+      "descricao": "moletom",
+      "valor": 150
+    },
+    {
+      "id": "2",
+      "descricao": "camiseta",
+      "valor": 100
+    },
+    {
+      "id": "dca6",
+      "descricao": "tenis",
+      "valor": 300
+    },
+    {
+      "id": "b660",
+      "descricao": "bolsa",
+      "valor": 1000
+    },
+    {
+      "id": "5869",
+      "descricao": "mochila",
+      "valor": 350
+    }
+  ]
+}
